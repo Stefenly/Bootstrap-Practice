@@ -17,7 +17,7 @@
 
 .hero::before {
   content: "";
-  background-image: url("/IMAGE/image.png");
+  background-image: url("https://thecosmeticstore.co.nz/cdn/shop/files/3_0cff88a8-4f3a-420b-a2e2-7dd9f2a8b0c7_2000x.jpg?v=1736240649");
   background-size: cover;
   background-position: center;
   top: 0;
